@@ -1,4 +1,4 @@
 
 i
+this is a new line.
 
-this is am empty file.
